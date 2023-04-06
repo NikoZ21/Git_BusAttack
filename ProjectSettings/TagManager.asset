@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Friendlybullet
+  - Bus
+  - Bugs
+  - Road
+  - EnemyBullet
+  - Farm House
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Road
+    uniqueID: 702277761
+    locked: 0
+  - name: Bus
+    uniqueID: 2275498189
+    locked: 0
+  - name: FriendlyBullet
+    uniqueID: 2973010625
+    locked: 0
+  - name: Visual Effect
+    uniqueID: 3989400897
+    locked: 0
+  - name: Bugs
+    uniqueID: 134294661
+    locked: 0
+  - name: Farm House
+    uniqueID: 3177836913
+    locked: 0
+  - name: Ui
+    uniqueID: 2634369725
+    locked: 0
